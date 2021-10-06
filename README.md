@@ -6,4 +6,4 @@ Part of project "Classic".
 
 For start need:
 
-```DB_URL=/tmp/demo.sqlite gunicorn ddashboard.composites.api:app```
+```DB_URL=/tmp/demo.sqlite gunicorn dashboard.composites.api:app```
